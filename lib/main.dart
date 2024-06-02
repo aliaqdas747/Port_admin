@@ -14,7 +14,11 @@ void main() async{
    );
    
  QuerySnapshot snapshot=await  FirebaseFirestore.instance.collection("Messages").get();
-   print(snapshot.docs.toString());
+ for(var doc in snapshot.docs){
+   print(doc.data().toString());
+
+ }
+  // print(snapshot.docs.toString());
    
    
   runApp(MyApp());
