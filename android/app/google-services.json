@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129754296273",
+    "project_id": "ali-portfolio-8d582",
+    "storage_bucket": "ali-portfolio-8d582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129754296273:android:8ff604be76858ea9137af0",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbh8MAg90pkX0aUEpd0U4NyupdZL5Im08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
